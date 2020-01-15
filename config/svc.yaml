@@ -1,0 +1,9 @@
+postgresql:
+	username: "stock"
+	password: "pCZkGO7YwLKNabCpOYin"
+	address: "pg-db-1.cluster-cpihs5rc5fos.ap-east-1.rds.amazonaws.com:5432"
+	dbname: "stock_info"
+	sslmode: "disable"
+	maxOpenConn: 10
+	maxIdleConn: 2
+	logmode: false
